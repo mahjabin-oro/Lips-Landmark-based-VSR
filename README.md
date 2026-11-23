@@ -1,4 +1,4 @@
-# BanglaVisionNet: Lip-Landmark-Aided Bengali Visual Speech Recognition
+# BanglaVisionNet: Lip Landmark Aided Bengali Visual Speech Recognition
 
 Recognising spoken Bengali words from **silent video** using lip movements only.
 
